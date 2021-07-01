@@ -1,6 +1,6 @@
 # ArduinoAirPurifier
-An Air purifier made with Arduino
-Arduino UNO3를 이용하여 만든 공기청정기의 코드입니다.
+An Air purifier made with Arduino 
+Arduino UNO3를 이용하여 만든 공기청정기의 코드입니다. 제작자 트위터 @SdToWN_
 
 -------------------------------------------------------------------------------------------------------------------
                                                    주의사항
