@@ -29,7 +29,7 @@ Arduino UNO3를 이용하여 만든 공기청정기의 코드입니다. 제작�
          5. 졸업작품 등으로 해당 코드 인용시 "반드시" 출처를 남겨주세요.                  
             (Please make sure to "leave the source" when quoting the code due to graduation work, etc.)                 
                              
-         6. 해당 코드를 사용하다 생긴 문제점(고장 등)에 대해서는 전적으로 사용자에게 있습니다.                    
+         6. 해당 코드를 사용하다 생긴 문제점(법적 문제, 고장 등)에 대해서는 전적으로 사용자에게 있습니다.                    
             (Problems with using the code (legal issues, failures, etc.) lie entirely with the user.)                 
                              
 
