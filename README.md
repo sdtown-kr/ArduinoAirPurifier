@@ -21,12 +21,15 @@ Arduino UNO3를 이용하여 만든 공기청정기의 코드입니다.
             
          3. 이 코드는 아두이노 호환품에서의 작동을 보장하지 않습니다. 정품 아두이노의 사용을 권장합니다.
            (This code does not guarantee operation on Arduino compatible products.
-           I recommend you using genuine Arduino.)                  
+           I recommend you using genuine Arduino.)
+           
+         4. 안드로이드 애플리케이션의 소스코드에 대한 권리는 제 친구 백 모 군에게 있어 업로드하지 않습니다.
+            (The right to source code for Android applications is not uploaded to my friend "Baek".)
                              
-         4. 졸업작품 등으로 해당 코드 인용시 "반드시" 출처를 남겨주세요.                  
+         5. 졸업작품 등으로 해당 코드 인용시 "반드시" 출처를 남겨주세요.                  
             (Please make sure to "leave the source" when quoting the code due to graduation work, etc.)                 
                              
-         5. 해당 코드를 사용하다 생긴 문제점(고장 등)에 대해서는 전적으로 사용자에게 있습니다.                    
+         6. 해당 코드를 사용하다 생긴 문제점(고장 등)에 대해서는 전적으로 사용자에게 있습니다.                    
             (Problems with using the code (legal issues, failures, etc.) lie entirely with the user.)                 
                              
 
