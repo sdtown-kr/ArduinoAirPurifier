@@ -10,8 +10,8 @@ Arduino UNO3를 이용하여 만든 공기청정기의 코드입니다. 제작�
             제작된 코드의 성격에 맞게 상업적 이용, 졸업작품 제작에 "직접적인" 적용을 금합니다.
             (The code was used to produce the graduation work of the Department of
             Intelligent Information and Communication Engineering at Namseoul University in 2020.
-            It is prohibited to apply the code directly to commercial use and graduation work
-            production according to the "nature" of the code.)
+            It is prohibited to apply the code "directly" to commercial use and graduation work
+            production according to the nature of the code.)
           
          2. 일부 코드 및 부품 간에 호환이 되지 않을 가능성이 있습니다. (ex. 블루투스와 미세먼지 센서간의 상호호환)
             블루투스 모듈로는 HC-05 / HC-06을, 미세먼지 센서로는 Sharp GP2Y1010AU0F을 사용할 것을 권장합니다.
