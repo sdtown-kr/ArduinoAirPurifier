@@ -17,7 +17,7 @@ Arduino UNO3를 이용하여 만든 공기청정기의 코드입니다. 제작�
             블루투스 모듈로는 HC-05 / HC-06을, 미세먼지 센서로는 Sharp GP2Y1010AU0F을 사용할 것을 권장합니다.
             (There is a possibility that some code and parts are incompatible.
             ex. Interchangeable between Bluetooth module and fine dust sensors.
-            I recommend you using HC-05 / HC-06 (BT module), Sharp GP2Y1010AU0F(Find dust sensor).
+            I recommend you using HC-05 / HC-06 (BT module), Sharp GP2Y1010AU0F(Fine dust sensor).
             
          3. 이 코드는 아두이노 호환품에서의 작동을 보장하지 않습니다. 정품 아두이노의 사용을 권장합니다.
            (This code does not guarantee operation on Arduino compatible products.
